@@ -1,0 +1,21 @@
+main{
+
+    display: flex;
+    justify-content: center;
+    height: 40vw;
+    align-items: center;
+}
+
+main>div {
+    margin: 10vw;
+}
+
+
+.habilidades > img:hover{
+    height: 60px;
+    width: 60px;
+}
+
+.foto {
+    border-radius: 50%;
+}
